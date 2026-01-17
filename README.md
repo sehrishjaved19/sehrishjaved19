@@ -38,18 +38,22 @@ I have completed several **industry-recognized certifications** from **Coursera 
 ---
 
 ## 💡 Current Learning Focus
-
-- 📌 **JavaScript & Frontend Development**  
-- 📌 **Full-Stack Web Development Fundamentals**  
+ 
+- 📌 **Full-Stack Web Development Fundamentals**
+- 📌 **Data structure and algorithm** 
 - 📌 **GitHub Collaboration & Version Control**
+  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sehrishjaved19&show_icons=true&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishjaved19&layout=compact&theme=radical" />
+  
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehrishjaved19&theme=radical" />
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sehrishjaved19&theme=radical" />
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sehrishjaved19&theme=radical" />
+
 </p>
 
 ---
@@ -57,9 +61,11 @@ I have completed several **industry-recognized certifications** from **Coursera 
 ## 📫 Connect With Me
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/sehrish-javed-119abc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sehrish%20Javed-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Sehrishjaved119"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@Sehrishjaved119-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/sehrishjaved19"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sehrishjaved19-181717?style=flat&logo=github&logoColor=white" /></a>
+  
 </p>
 
 ---
