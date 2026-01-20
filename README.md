@@ -22,6 +22,20 @@
 
 ---
 
+## 📌 Featured Work
+
+The repositories pinned on my GitHub profile reflect my current skills, learning progress, and practical experience in programming and web development.
+
+---
+
+## 💡 Current Learning Focus
+ 
+- 📌 **Full-Stack Web Development Fundamentals**
+- 📌 **Data Structures & Algorithms** 
+- 📌 **GitHub Collaboration & Version Control**
+  
+---
+
 ## 📜 Certifications
 
 I have completed several **industry-recognized certifications** from **Coursera and IBM**.  
@@ -34,15 +48,6 @@ I have completed several **industry-recognized certifications** from **Coursera 
 | HTML & CSS: Building a Single-Page Website | Coursera | HTML5, CSS | [View Certificate](https://coursera.org/share/f144d2cdab3e697020857f21020e0b9b) |
 | Introduction to Software Engineering | IBM | SDLC | [View Certificate](https://coursera.org/share/a5f47849c9e5534f414c1535a314fa3f) |
 | Introduction to Generative AI | Google Cloud | Generative AI | [View Certificate](https://coursera.org/share/1e3aa873c7b5779dec6ad01fcaa71eb0) |
-
----
-
-## 💡 Current Learning Focus
- 
-- 📌 **Full-Stack Web Development Fundamentals**
-- 📌 **Data structure and algorithm** 
-- 📌 **GitHub Collaboration & Version Control**
-  
 
 ---
 
@@ -61,11 +66,11 @@ I have completed several **industry-recognized certifications** from **Coursera 
 ## 📫 Connect With Me
 
 <p align="center">
-  
+
   <a href="https://www.linkedin.com/in/sehrish-javed-119abc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sehrish%20Javed-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Sehrishjaved119"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@Sehrishjaved119-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/sehrishjaved19"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sehrishjaved19-181717?style=flat&logo=github&logoColor=white" /></a>
-  
+  <a href="https://x.com/Sehrishjaved119"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Sehrish%20Javed-blue?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/sehrishjaved19"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sehrish%20Javed-blue?style=flat&logo=github&logoColor=white" /></a>
+
 </p>
 
 ---
