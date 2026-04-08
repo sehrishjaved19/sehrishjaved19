@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sehrish Javed 👋</h1>
 
 <p align="center">
-🎓 3rd Semester Computer Science Student at GCUF | 💻 Focused on Web Development & Programming <br>
+🎓 4th Semester Computer Science Student at GCUF |<br>
 🌐 C++ • SQL • Python • JavaScript • HTML • CSS • GitHub • VS Code
 </p>
 
@@ -24,15 +24,7 @@
 
 ## 📌 Featured Work
 
-The repositories pinned on my GitHub profile reflect my current skills, learning progress, and practical experience in programming and web development.
-
----
-
-## 💡 Current Learning Focus
- 
-- 📌 **Full-Stack Web Development Fundamentals**
-- 📌 **Data Structures & Algorithms** 
-- 📌 **GitHub Collaboration & Version Control**
+The repositories pinned on my GitHub profile reflect my current skills, learning progress, and practical experience in programming.
   
 ---
 
