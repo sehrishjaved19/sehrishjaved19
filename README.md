@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sehrish Javed 👋</h1>
 
 <p align="center">
-🎓 4th Semester Computer Science Student at GCUF |<br>
-🌐 C++ • SQL • Python • JavaScript • HTML • CSS • GitHub • VS Code
+🎓 5th Semester Computer Science Student at GCUF |<br>
+🌐 C++ • SQL • Python • HTML • CSS • JavaScript • GitHub • VS Code
 </p>
 
 ---
